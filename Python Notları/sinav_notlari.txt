@@ -1,0 +1,2 @@
+mustafa kızılay:30,50,80
+ahmet kal:30,90,100
