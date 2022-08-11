@@ -1,0 +1,4 @@
+dict_list =[{"Name":"Ahmet","Grade":50},
+            {"Name":"Ali","Grade":60},
+            {"Name":"Yağmur","Grade":70},
+            {"Name":"Çınar","Grade":80}]
